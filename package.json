@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/man-x199/PudidiXBOT3.git"
+    "url": "git+https://github.com/evelynsecret/ROBOCOP.git"
   },
   "keywords": [
     "k"
@@ -48,7 +48,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/man-x199/PudidiXBOT3/issues"
+    "url": "https://github.com/evelynsecret/ROBOCOP/issues"
   },
-  "homepage": "https://github.com/man-x199/PudidiXBOT3/readme"
+  "homepage": "https://github.com/evelynsecret/ROBOCOP/readme"
 }
