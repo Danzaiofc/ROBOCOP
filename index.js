@@ -37,7 +37,7 @@ const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN?
             + 'VERSION:3.0\n' // NGAPAIN LAGI KALO GA MAU NUMPANG NAMA DOANG XIXIXIXI
             + 'FN:Indra🖤\n' // MENDING LU TOBAT SU!
-            + 'ORG:Creator PUDIDIXBOT;\n' // KASIH CREDITS GUA SU!!!
+            + 'ORG:Creator ROBOCOP;\n' // KASIH CREDITS GUA SU!!!
             + 'TEL;type=CELL;type=VOICE;waid=6285277844044:+62 852-7784-4044\n' // JANGAN KEK BABI SU
             + 'END:VCARD' // ARIS187 ID
 prefix = '-'
