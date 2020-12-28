@@ -56,7 +56,7 @@ Script ini di modifikasi sama saya sendiri Indra (Evelynsecret).
 ```bash
 • pkg install git
 • git clone https://github.com/evelynsecret/ROBOCOP
-• cd evelynsecret
+• cd ROBOCOP
 • bash install.sh
 • node index.js
 • Scan Your Code
