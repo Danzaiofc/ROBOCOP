@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="#"><img title="🔹𝗣𝘂𝗱𝗶𝗱𝗶𝗫𝗕𝗢𝗧🔹" src="https://img.shields.io/badge/PUDIDIXBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="🔹𝗣𝘂𝗱𝗶𝗱𝗶𝗫𝗕𝗢𝗧🔹" src="https://img.shields.io/badge/ROBOCOP-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/evelynsecret"><img title="Author" src="https://img.shields.io/badge/AUTHOR-INDRATOS-orange.svg?style=for-the-badge&logo=github"></a>
@@ -55,8 +55,8 @@ Siapin alat dan bahannya.
 Script ini di modifikasi sama saya sendiri Indra (Evelynsecret).
 ```bash
 • pkg install git
-• git clone https://github.com/man-x199/PudidiXBOT3
-• cd PudidiXBOT3
+• git clone https://github.com/evelynsecret/ROBOCOP
+• cd evelynsecret
 • bash install.sh
 • node index.js
 • Scan Your Code
